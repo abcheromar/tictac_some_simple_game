@@ -1,5 +1,7 @@
   # !/usr/bin/env ruby
 
+  #abcher omar Flatiron Fellowship 2013 code challenge 
+
   # This is a simple Tic Tac Toe I made in the past 3 days
   # The game is played against the computer using the console
   # You can run it with 'ruby tic.rb' on the console and it shoud be fine
