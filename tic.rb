@@ -12,7 +12,7 @@
   #i wanted to make tic tac toe the computer will always win
   #Sadly I am submitting the game w/o the algorithm that would make it
   #owesome: i don't fully understand the recurstions involved so far
-  #There is some C code examples and pseudocode but I didnt implement it. :( 
+  #There is some C code examples and pseudocode but I didnt implement it. 
   # #In this version the computer randonly selects out of the 9 game
   # slots and wins only when the human player is not watching out
   #or it gets luck.
